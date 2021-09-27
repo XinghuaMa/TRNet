@@ -1,0 +1,54 @@
+absl-py==0.11.0
+astor==0.8.1
+bleach==1.5.0
+certifi==2020.12.5
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+cycler==0.10.0
+cytoolz==0.11.0
+dask @ file:///tmp/build/80754af9/dask-core_1602083700509/work
+decorator==4.4.2
+einops @ file:///home/conda/feedstock_root/build_artifacts/einops_1602792478173/work
+gast==0.4.0
+grpcio==1.34.0
+h5py==2.8.0
+html5lib==0.9999999
+imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
+importlib-metadata==3.3.0
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1604014557000/work
+Markdown==3.3.3
+matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1603373816490/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+networkx @ file:///tmp/build/80754af9/networkx_1598376031484/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603487797006/work
+olefile==0.46
+pandas @ file:///tmp/build/80754af9/pandas_1602088135163/work
+Pillow @ file:///tmp/build/80754af9/pillow_1603822238230/work
+protobuf==3.14.0
+pydicom @ file:///home/conda/feedstock_root/build_artifacts/pydicom_1604367895328/work
+pynrrd==0.4.2
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+PyWavelets @ file:///tmp/build/80754af9/pywavelets_1601658315997/work
+PyYAML==5.3.1
+scikit-image==0.17.2
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598379690588/work
+scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
+six @ file:///tmp/build/80754af9/six_1605205335545/work
+tensorboard==1.7.0
+tensorboardX==2.1
+tensorflow==1.7.0
+termcolor==1.1.0
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tifffile==2020.10.1
+toolz @ file:///tmp/build/80754af9/toolz_1601054250827/work
+torch==1.6.0
+torchvision==0.7.0
+tornado==6.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
+typing-extensions==3.7.4.3
+Werkzeug==1.0.1
+zipp==3.4.0
